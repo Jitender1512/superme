@@ -1,0 +1,4 @@
+Array is a variable which contains multiple values of same type. 
+
+use chmod to change the permission of file. 
+
