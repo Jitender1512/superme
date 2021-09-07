@@ -1,4 +1,4 @@
 I want to pull this file from remote repository to my local repository.
 
 git pull command will work for this.
-i want to add some text to this file.
+i want to add some.
