@@ -1,4 +1,5 @@
 Binary DFTB+ packages (dftbplus, dftbplus-tools, dftbplus-python) 
 are available through the conda-forge channel of the
+
 Anaconda package management framework.
-You have to decide upon the model used to describe your system in order to calculate its properties.
+
